@@ -1,0 +1,79 @@
+<!--
+  ~ Copyright 2019 bernd32
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">JLyrics</string>
+    <string name="search">Search</string>
+    <string name="share">Share</string>
+    <string name="title_found">Found:</string>
+    <string name="album_photo">Album photo</string>
+    <string name="detailed_search_hide">Hide detailed search</string>
+    <string name="detailed_search_show">Show detailed search</string>
+    <string name="artist">Artist</string>
+    <string name="song">Song</string>
+    <string name="lyrics">Lyrics</string>
+    <string name="ok">OK</string>
+    <string name="not_found_title">No result found</string>
+    <string name="repeat"><i>(△Repeat)</i></string>
+    <string name="repeat2"><i>( ※ Repeat)</i></string>
+    <string name="not_found_message">Suggestions:\n\n
+    • Make sure all words are spelled correctly\n
+    • Try searching in Japanese\n
+    • Try different search options\n
+    • Try using detailed search
+    </string>
+    <string name="translate">Show furigana</string>
+    <string name="add_favorites">Add/Remove to favorites</string>
+    <string name="delete_all">Delete all</string>
+    <string name="delete_lyrics_preamble">Removed from favorites</string>
+    <string name="favs_remove">Remove from favs</string>
+    <string name="favs_add">Add to favs</string>
+    <string name="favs">Favorites</string>
+    <string name="copy">Copy</string>
+    <string name="font_size">Change font size</string>
+    <string name="dark_theme">Night mode</string>
+    <string name="quit">Quit</string>
+    <string name="cancel">Cancel</string>
+    <string name="change_font">Change font size</string>
+    <string name="saved">Saved</string>
+    <string name="removed">Removed</string>
+    <string name="contact">Contact developer</string>
+    <string name="copied">Copied</string>
+    <string name="connection_failed">Connection failed</string>
+    <string name="romanize">Romanize</string>
+    <string name="show_original">Show original</string>
+    <string name="email_address">fallentides@outlook.com</string>
+    <string name="email_subject_question">Feedback</string>
+    <string name="empty_message">Favorites are empty</string>
+
+    <string-array name="spinner_items">
+        <item>Song name</item>
+        <item>Artist</item>
+        <item>Lyrics</item>
+    </string-array>
+    <string-array name="spinner_search_options">
+        <item>Starts with</item>
+        <item>Full match</item>
+        <item>In the middle</item>
+        <item>Ends with</item>
+    </string-array>
+    <string-array name="lyrics_spinner_options">
+        <item>Starts with</item>
+        <item>In the middle</item>
+        <item>Ends with</item>
+    </string-array>
+
+</resources>
