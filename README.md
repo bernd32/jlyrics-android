@@ -38,6 +38,9 @@ Jlyrics-android is an unofficial Android application client of the website <a hr
 </p>
 </details>
 
+## How to use
+Download and install `.apk` file from [the latest release](https://github.com/bernd32/jlyrics-android/releases). 
+
 ## Demo
 [https://www.youtube.com/watch?v=INQmKcC90nc](https://www.youtube.com/watch?v=INQmKcC90nc)
 
