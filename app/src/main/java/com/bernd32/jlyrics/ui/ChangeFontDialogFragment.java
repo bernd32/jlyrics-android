@@ -37,7 +37,7 @@ import com.bernd32.jlyrics.R;
 
 import java.util.Objects;
 
-class ChangeFontDialogFragment extends DialogFragment {
+public class ChangeFontDialogFragment extends DialogFragment {
     private static final String TAG = "ChangeFontDialogFragmen";
     private OnDialogButtonClick listener;
 
