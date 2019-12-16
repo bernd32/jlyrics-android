@@ -20,15 +20,21 @@ Jlyrics-android is an unofficial Android application client of the website <a hr
 <details>
 <summary>Click me</summary>
 <p>
+
 ![jlyrics-screenshot](https://github.com/bernd32/jlyrics-android/blob/master/screenshots/LQ/Screenshot_1576531726.jpg?raw=true)
 ![jlyrics-screenshot](https://github.com/bernd32/jlyrics-android/blob/master/screenshots/LQ/Screenshot_1576531757.jpg?raw=true)
+
 ![jlyrics-screenshot](https://github.com/bernd32/jlyrics-android/blob/master/screenshots/LQ/Screenshot_1576531777.jpg?raw=true)
 ![jlyrics-screenshot](https://github.com/bernd32/jlyrics-android/blob/master/screenshots/LQ/Screenshot_1576531782.jpg?raw=true)
+
 ![jlyrics-screenshot](https://github.com/bernd32/jlyrics-android/blob/master/screenshots/LQ/Screenshot_1576531795.jpg?raw=true)
 ![jlyrics-screenshot](https://github.com/bernd32/jlyrics-android/blob/master/screenshots/LQ/Screenshot_1576531815.jpg?raw=true)
+
 ![jlyrics-screenshot](https://github.com/bernd32/jlyrics-android/blob/master/screenshots/LQ/Screenshot_1576531824.jpg?raw=true)
 ![jlyrics-screenshot](https://github.com/bernd32/jlyrics-android/blob/master/screenshots/LQ/Screenshot_1576531844.jpg?raw=true)
+
 ![jlyrics-screenshot](https://github.com/bernd32/jlyrics-android/blob/master/screenshots/LQ/Screenshot_1576531899.jpg?raw=true)
+
 </p>
 </details>
 
